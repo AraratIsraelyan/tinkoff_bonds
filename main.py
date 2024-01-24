@@ -2,7 +2,7 @@ from tinkoff.invest import Client, InstrumentStatus, SharesResponse, InstrumentI
 import pandas as pd
 import openpyxl
 
-TOKEN = 't.YmCIDJulB7UdqB1syVFXrh8Xh8kiChe1MVn2IDXUnIyJyIbMaxJkK0ceiVAZmdpHntD5yZX6LQjvlbkALT4rWg'
+TOKEN = 'token'
 
 
 def iam_get_favourites():
